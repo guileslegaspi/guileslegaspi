@@ -1,11 +1,26 @@
-- 👋 Hi, I’m @guileslegaspi
-- 👀 I’m interested in learning programming
-- 🌱 I’m currently learning .Net
-- 📫 How to reach me guileslegaspi@gmail.com/09397709154
-- ⚡ Fun fact: no none >:(
+Hi, I'm Guiles 👋
+
+I'm a Computer Engineering graduate currently building my skills in .NET development.
+
+🛠️ Currently Working With
+C#
+ASP.NET Core MVC
+Entity Framework Core
+PostgreSQL
+HTML / CSS / JavaScript
+SignalR
+Git & GitHub
+🚀 Featured Project
+
+Fluster — Full-Stack Marketplace
+
+A marketplace web application built with C# and ASP.NET Core MVC, featuring authentication, product management, shopping cart and checkout, order workflows, real-time messaging with SignalR, and PayMongo payment integration.
+
+🌐 Live Demo: https://fluster-production.up.railway.app
+💻 Repository: https://github.com/guileslegaspi/Fluster
+
+📫 Contact
+Email: guileslegaspi@gmail.com
+LinkedIn: https://www.linkedin.com/in/guiles-christopher-legaspi-937472193
 
 
-<!---
-guileslegaspi/guileslegaspi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
