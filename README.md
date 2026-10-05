@@ -13,7 +13,6 @@ I enjoy building full-stack applications while continuously improving my underst
 * PostgreSQL
 * HTML / CSS / JavaScript
 * React
-* SignalR
 * Git & GitHub
 
 ## Featured Project
